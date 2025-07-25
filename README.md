@@ -1,6 +1,6 @@
-<!-- ✨ Hero Banner: Woman working on dashboards -->
+<!-- ✨ Hero Banner: New GIF -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV4OXVma2luM2Y4bGY2dGFtYnlqeW54bGk0ODlmZmNseHVjanBkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKOfvqJHcVDrdVivT/giphy.gif" width="100%" alt="Alina Joy working on dashboards">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zZ3IwdDRrOHBocDJ0aW5yaDFiNnZsMXkzb25lZmM2OWdlMThsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="100%" alt="Alina Joy – Hero Banner Animation">
 </p>
 
 <h1 align="center">
@@ -103,6 +103,16 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+
+  
+
+
+
+
+
+
+
 
 
 

@@ -30,9 +30,9 @@
 📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
 💡 Passionate about simplifying systems, automating research, and visualizing insights
 
-<!-- 👩‍💻 Working Girl Animation -->
+<!-- 👩‍💻 Girl Working with Data Dashboard -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Girl working GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwMzM3YmtnNGEwYndkM3R3bXQ4bzR5YTFyM2V2OXZ1cnN6dTh3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5XAeGXB3cIh0Uy3D6k/giphy.gif" width="300" alt="Girl with data UI"/>
 </p>
 
 ---
@@ -103,6 +103,19 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+
 
 
 

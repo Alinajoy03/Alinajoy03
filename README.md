@@ -1,44 +1,92 @@
-### Hi there 👋
-
-<!--
-**Alinajoy03/Alinajoy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![MasterHead](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)
-<h1 align="center">Hi 👋, I'm Alina Joy</h1>
-<h3 align="center">A blooming data analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alinajoy03&label=Profile%20views&color=0e75b6&style=flat" alt="alinajoy03" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **advanced excel**
-
-- 🌱 I’m currently learning **SQL ,Advanced Excel , Microsoft power Bi**
-
-- 📫 How to reach me **alinamjoy@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohc12yn2xL6D9rjDW/giphy.gif" width="100%" alt="Banner GIF">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75990&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alina+Joy!;Data+%2B+Automation+%2B+Research+Nerd.;Let+the+data+speak+%E2%9C%85" alt="Typing SVG" />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinajoy03&show_icons=true&locale=en&layout=compact" alt="alinajoy03" /></p>
+<p align="center">
+  <b>Data Whisperer • Research Analyst • Automation Explorer</b>  
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinajoy03&show_icons=true&locale=en" alt="alinajoy03" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alina-joy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:alina03joy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=alina-joy&style=for-the-badge&color=green" alt="profile views"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinajoy03&" alt="alinajoy03" /></p>
+---
+
+## 💫 Who Am I?
+
+🎓 Economics graduate pivoting into the world of **Data + Automation**  
+🚀 Currently designing **AI-powered workflows** at **GrowthX**  
+💡 Passionate about **using tech for social impact**, storytelling with data & building intelligent dashboards  
+📚 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Working Alina GIF"/>
+</p>
+
+---
+
+## 🔧 Tools & Tech
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-informational?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Make.com-No%20Code-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/N8N-Automation-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Langflow-GPT-blueviolet?style=for-the-badge"/>
+</p>
+
+---
+
+## 📁 Portfolio
+
+<p align="center">
+  <a href="https://www.notion.so/Workfolio-22e1fc1a23fd80199ed3db88bedf3933?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio Badge"/>
+  </a>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 📚 Advanced Data Analytics (Henry Harvin Education)
+- 🧠 LangChain, Langflow & Prompt Engineering
+- 🧩 Building automated systems using N8N & Make
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alina-joy&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alina-joy&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+![GitHub Snake](https://github.com/alina-joy/alina-joy/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:alina03joy@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square&logo=gmail"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/alina-joy"><img src="https://img.shields.io/badge/LinkedIn-Alina%20Joy-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
+</p>

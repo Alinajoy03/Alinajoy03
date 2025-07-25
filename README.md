@@ -1,6 +1,6 @@
-<!-- ✨ Calm Analytics Banner -->
+<!-- ✨ Hero Banner: Woman creating dashboards -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Dashboard Banner">
+  <img src="https://githubusercontent.com/assets/openai/creative-samples/dashboard-banner-alinajoy.png" width="100%" alt="Alina Joy working on dashboards">
 </p>
 
 <h1 align="center">
@@ -30,9 +30,9 @@
 📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
 💡 Passionate about simplifying systems, automating research, and visualizing insights
 
-<!-- 👩‍💻 Girl Working with Data Dashboard -->
+<!-- 👩‍💻 Calm Woman Working (Second Visual) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FwMzM3YmtnNGEwYndkM3R3bXQ4bzR5YTFyM2V2OXZ1cnN6dTh3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5XAeGXB3cIh0Uy3D6k/giphy.gif" width="300" alt="Girl with data UI"/>
+  <img src="https://githubusercontent.com/assets/openai/creative-samples/laptop-alinajoy.png" width="300" alt="Alina working calmly at laptop">
 </p>
 
 ---
@@ -103,19 +103,3 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
-
- 
-
-
-
- 
-
-
- 
-
-
-
-
-
-
-

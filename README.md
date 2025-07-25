@@ -1,6 +1,6 @@
-<!-- 🎉 Animated Banner -->
+<!-- ✨ Calm Analytics Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Analytics Banner">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Dashboard Banner">
 </p>
 
 <h1 align="center">
@@ -30,9 +30,9 @@
 📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
 💡 Passionate about simplifying systems, automating research, and visualizing insights
 
-<!-- 👩‍💻 Working Animation -->
+<!-- 👩‍💻 Working Girl Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Working Alina GIF"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Girl working GIF"/>
 </p>
 
 ---
@@ -54,11 +54,15 @@
 
 ---
 
-## 📁 Portfolio
+## 📁 Portfolio & Resume
 
 <p align="center">
   <a href="https://www.notion.so/Workfolio-22e1fc1a23fd80199ed3db88bedf3933?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/View%20Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/alina-joy/alina-joy/raw/main/ALINA%20JOY%20-%20RESUME.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
@@ -99,13 +103,6 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
-
-  
-
-
-
-
-
 
 
 

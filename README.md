@@ -1,6 +1,6 @@
-<!-- ✨ Hero Banner: Woman creating dashboards -->
+<!-- ✨ Hero Banner: Woman working on dashboards -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQxNDVmODZlM2Y2NTZjZDc5MDJkYTdlYzg0NGZhZmUzZDkxZDgxZSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Alina Joy working on dashboards">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV4OXVma2luM2Y4bGY2dGFtYnlqeW54bGk0ODlmZmNseHVjanBkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKOfvqJHcVDrdVivT/giphy.gif" width="100%" alt="Alina Joy working on dashboards">
 </p>
 
 <h1 align="center">
@@ -32,7 +32,7 @@
 
 <!-- 👩‍💻 Calm Woman Working (Second Visual) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IzZDkzOTBmODI1NzNkNjgzODZkMmRmNGE5NGE1ZTU5ZjBlNTE1YyZjdD1n/RHcMx3BzUnKQE/giphy.gif" width="300" alt="Alina learning and working calmly">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pwazNuMjhyanU2cjBlcHI5dmJ0NGdqbm9naWx3anVpNmMwMjNlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSfM5WCkMq7Xm7RCjP/giphy.gif" width="300" alt="Alina working calmly at laptop">
 </p>
 
 ---
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/View%20Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/alina-joy/alina-joy/raw/main/ALINA-JOY-RESUME.pdf" download>
+  <a href="https://github.com/alina-joy/alina-joy/raw/main/ALINA%20JOY%20-%20RESUME.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -70,9 +70,9 @@
 
 ## 🌱 Currently Learning
 
-- 📚 Advanced Data Analytics (Henry Harvin Education)  
-- 🧠 LangChain, Langflow & Prompt Engineering  
-- 🧩 Building automated systems using N8N & Make  
+- 📚 Advanced Data Analytics (Henry Harvin Education)
+- 🧠 LangChain, Langflow & Prompt Engineering
+- 🧩 Building automated systems using N8N & Make
 
 ---
 
@@ -103,6 +103,22 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
 
 
 

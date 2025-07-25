@@ -1,6 +1,6 @@
-<!-- ✨ Hero Banner: Woman creating dashboards -->
+<!-- ✨ Hero Banner (Animated) -->
 <p align="center">
-  <img src="https://githubusercontent.com/assets/openai/creative-samples/dashboard-banner-alinajoy.png" width="100%" alt="Alina Joy working on dashboards">
+  <img src="https://lottie.host/embed/8ac287e8-d38a-474b-b29b-12e519a6a487/3WDzNctYfK.json" width="100%" alt="Alina creating dashboards">
 </p>
 
 <h1 align="center">
@@ -23,21 +23,21 @@
 
 ---
 
-## 💫 Who Am I?
+## 🌟 Who Am I?
 
-🎓 Economics graduate pivoting into the world of **Data + Automation**  
+🎓 Economics grad pivoting into the world of **Data + Automation**  
 🚀 Currently designing **AI-powered workflows** at **GrowthX**  
-📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
+📊 Ex-**NielsenIQ**, **KILA**, and **Trilovera**  
 💡 Passionate about simplifying systems, automating research, and visualizing insights
 
-<!-- 👩‍💻 Calm Woman Working (Second Visual) -->
+<!-- 👩‍💻 Calm Animated Woman Working -->
 <p align="center">
-  <img src="https://githubusercontent.com/assets/openai/creative-samples/laptop-alinajoy.png" width="300" alt="Alina working calmly at laptop">
+  <img src="https://lottie.host/embed/3eab8dd3-997b-4c89-8d11-2ef195c252f4/QuKkK6D1pm.json" width="300" alt="Woman working calmly">
 </p>
 
 ---
 
-## 🔧 Tools & Tech
+## 🧰 Tools & Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -103,3 +103,13 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+
+ 
+  
+
+
+
+
+
+

@@ -1,6 +1,6 @@
-<!-- 🎯 Hero Banner -->
+<!-- ✨ Hero Banner: Woman creating dashboards -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Working woman on laptop" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQxNDVmODZlM2Y2NTZjZDc5MDJkYTdlYzg0NGZhZmUzZDkxZDgxZSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Alina Joy working on dashboards">
 </p>
 
 <h1 align="center">
@@ -30,9 +30,9 @@
 📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
 💡 Passionate about simplifying systems, automating research, and visualizing insights
 
-<!-- 📚 Studying GIF -->
+<!-- 👩‍💻 Calm Woman Working (Second Visual) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Studying girl" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IzZDkzOTBmODI1NzNkNjgzODZkMmRmNGE5NGE1ZTU5ZjBlNTE1YyZjdD1n/RHcMx3BzUnKQE/giphy.gif" width="300" alt="Alina learning and working calmly">
 </p>
 
 ---
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/View%20Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/alina-joy/alina-joy/raw/main/ALINA%20JOY%20-%20RESUME.pdf" download>
+  <a href="https://github.com/alina-joy/alina-joy/raw/main/ALINA-JOY-RESUME.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -70,9 +70,9 @@
 
 ## 🌱 Currently Learning
 
-- 📚 Advanced Data Analytics (Henry Harvin Education)
-- 🧠 LangChain, Langflow & Prompt Engineering
-- 🧩 Building automated systems using N8N & Make
+- 📚 Advanced Data Analytics (Henry Harvin Education)  
+- 🧠 LangChain, Langflow & Prompt Engineering  
+- 🧩 Building automated systems using N8N & Make  
 
 ---
 
@@ -103,6 +103,16 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+
+
+
+ 
+  
+
+
+
+
 
 
 

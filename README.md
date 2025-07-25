@@ -1,6 +1,6 @@
- <!-- ✨ Hero Banner: Woman creating dashboards -->
+<!-- 🎯 Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/gif/laptop-work.gif" width="100%" alt="Alina Joy working on dashboards">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Working woman on laptop" />
 </p>
 
 <h1 align="center">
@@ -30,9 +30,9 @@
 📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
 💡 Passionate about simplifying systems, automating research, and visualizing insights
 
-<!-- 👩‍💻 Calm Woman Working (Second Visual) -->
+<!-- 📚 Studying GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/gif/study-girl.gif" width="300" alt="Alina working calmly at laptop">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" alt="Studying girl" />
 </p>
 
 ---
@@ -103,6 +103,18 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+
+
+
+ 
+  
+
+
+
+
+
+
 
 
 

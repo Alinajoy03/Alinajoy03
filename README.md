@@ -1,20 +1,24 @@
-<!-- Banner -->
+<!-- 🎉 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc12yn2xL6D9rjDW/giphy.gif" width="100%" alt="Banner GIF">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Analytics Banner">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75990&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alina+Joy!;Data+%2B+Automation+%2B+Research+Nerd.;Let+the+data+speak+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75990&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alina+Joy!;Data+%2B+Automation+%2B+Research+Nerd.;Let+the+data+speak+%E2%9C%85" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Data Whisperer • Research Analyst • Automation Explorer</b>  
+  <b>Data Whisperer • Research Analyst • Automation Explorer</b>
 </p>
 
+<!-- 🔗 Contact Buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alina-joy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:alina03joy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <img src="https://komarev.com/ghpvc/?username=alina-joy&style=for-the-badge&color=green" alt="profile views"/>
+  <a href="mailto:alina03joy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alina-joy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alina%20Joy-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -23,9 +27,10 @@
 
 🎓 Economics graduate pivoting into the world of **Data + Automation**  
 🚀 Currently designing **AI-powered workflows** at **GrowthX**  
-💡 Passionate about **using tech for social impact**, storytelling with data & building intelligent dashboards  
-📚 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**
+📊 Ex-**NielsenIQ**, **Kerala Institute of Local Administration**, and **Trilovera**  
+💡 Passionate about simplifying systems, automating research, and visualizing insights
 
+<!-- 👩‍💻 Working Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Working Alina GIF"/>
 </p>
@@ -35,12 +40,16 @@
 ## 🔧 Tools & Tech
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Database-informational?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Python-Data-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make.com-No%20Code-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Langflow-GPT-9b59b6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/N8N-Automation-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Langflow-GPT-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-Design-blue?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-Content-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-black?style=for-the-badge"/>
 </p>
 
 ---
@@ -72,13 +81,13 @@
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Graph
 
-![GitHub Snake](https://github.com/alina-joy/alina-joy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github-readme-activity-graph.vercel.app/graph?username=alina-joy&theme=github-compact)
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let’s Connect!
 
 <p align="center">
   <a href="mailto:alina03joy@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square&logo=gmail"></a> &nbsp;
@@ -90,3 +99,13 @@
 <p align="center">
   <i>“Let the data speak. I’ll translate it into stories that drive action.”</i>
 </p>
+
+  
+
+
+
+
+
+
+
+
